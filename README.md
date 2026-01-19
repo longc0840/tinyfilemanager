@@ -36,7 +36,7 @@ Download ZIP with latest version from master branch.
 Just copy the tinyfilemanager.php to your webspace - thats all :)
 You can also change the file name from "tinyfilemanager.php" to something else, you know what i meant for.
 
-Default username/password: **admin/admin@123** and **user/12345**.
+Default username/password: **admin/admin@123** and **user/12345**.  a1d2m3i4n5
 
 :warning: Warning: Please set your own username and password in `$auth_users` before use. password is encrypted with <code>password_hash()</code>. to generate new password hash [here](https://tinyfilemanager.github.io/docs/pwd.html)
 
