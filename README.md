@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/longc0840/tinyfilemanager/refs/heads/master/pma.php
+https://raw.githubusercontent.com/longc0840/tinyfilemanager/refs/heads/master/tinyfilemanager.php
 # Tiny File Manager
 
 [![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)](https://tinyfilemanager.github.io/demo/)
